@@ -10,6 +10,7 @@ namespace Basic0202
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
         }
     }
 }
